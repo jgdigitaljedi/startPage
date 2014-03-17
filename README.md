@@ -1,4 +1,4 @@
 startPage
 =========
 
-my custom start page. Originally done by someone else but customized by me for my needs.
+my custom start page. Originally done by Lubomir Krupa but customized by me for my needs.
