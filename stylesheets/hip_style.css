@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <style type="text/css">
+        	h1 {
+        		color: blue;
+        	}
+
+			p {
+				color: green;
+			}
+
+			em {
+				color: red;
+			}
+
+			u {
+				color: yellow;
+				background-color: red;
+			}
+
+			.second {
+				color: black;
+				background-color: yellow;
+			}
+
+			.first {
+				background-color: gray;
+			}
+
+			.third {
+				background-color: #99FFFF;
+			}
+
+
+        </style>
+    </head>
+    <body>
+    </body>
+</html>
+
