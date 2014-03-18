@@ -7,7 +7,7 @@ var numberOfScreens = 3; // set number of screens (1 or 2 or 3)
 var blockName = new Array(); // set names of blocks
 blockName[1] = 'My Faves';
 blockName[2] = 'More Goodies';
-blockName[3] = 'News & fun';
+blockName[3] = 'Geeky';
 
 var bookmark = new Array();
 bookmark[0] = new Array();
@@ -141,19 +141,19 @@ bookmark[1][11] = {
 //end of SECOND BLOCK
 // THIRD BLOCK
 bookmark[2][0] = {
-	'title':'eurosport',
-	'url':'http://www.eurosport.com/',
-	'thumb':'eurosport.png'
+	'title':'XDA GS4',
+	'url':'http://forum.xda-developers.com/forumdisplay.php?f=2279',
+	'thumb':'xdas4.png'
 };
 bookmark[2][1] = {
-	'title':'amazon',
-	'url':'http://www.amazon.com/',
-	'thumb':'amazon.png'
+	'title':'XDA N7',
+	'url':'http://forum.xda-developers.com/forumdisplay.php?f=1673',
+	'thumb':'xdan7.png'
 };
 bookmark[2][2] = {
-	'title':'eBay',
-	'url':'http://www.ebay.com/',
-	'thumb':'ebay.png'
+	'title':'cm',
+	'url':'http://forum.cyanogenmod.com/',
+	'thumb':'cm.png'
 };
 bookmark[2][3] = {
 	'title':'IMDb',
@@ -161,14 +161,14 @@ bookmark[2][3] = {
 	'thumb':'imdb.png'
 };
 bookmark[2][4] = {
-	'title':'vimeo',
-	'url':'http://vimeo.com',
-	'thumb':'vimeo.png'
+	'title':'Gizmodo',
+	'url':'http://gizmodo.com/',
+	'thumb':'giz.png'
 };
 bookmark[2][5] = {
-	'title':'lifehacker',
-	'url':'http://lifehacker.com/',
-	'thumb':'lifehacker.png'
+	'title':'Lynda',
+	'url':'http://www.lynda.com/member.aspx',
+	'thumb':'lynda.png'
 };
 bookmark[2][6] = {
 	'title':'engadged',
@@ -191,12 +191,12 @@ bookmark[2][9] = {
 	'thumb':'natgeo.png'
 };
 bookmark[2][10] = {
-	'title':'CBC news',
-	'url':'http://www.cbc.ca/news/',
-	'thumb':'cbcnews.png'
+	'title':'Techcrunch',
+	'url':'www.techcrunch.com',
+	'thumb':'tc.png'
 };
 bookmark[2][11] = {
-	'title':'weather.com',
-	'url':'http://www.weather.com/',
-	'thumb':'weather.png'
+	'title':'OMG! Ubuntu',
+	'url':'http://www.omgubuntu.co.uk/',
+	'thumb':'omg.png'
 };
