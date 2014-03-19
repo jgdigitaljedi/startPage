@@ -176,9 +176,9 @@ bookmark[2][6] = {
 	'thumb':'engadget.png'
 };
 bookmark[2][7] = {
-	'title':'zune',
-	'url':'http://www.zune.net/',
-	'thumb':'zune.png'
+	'title':'Pebble faces',
+	'url':'http://www.mypebblefaces.com/?pebble_sdk[]=2&',
+	'thumb':'pebble.png'
 };
 bookmark[2][8] = {
 	'title':'dropbox',
