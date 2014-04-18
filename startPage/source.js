@@ -166,9 +166,9 @@ bookmark[2][4] = {
 	'thumb':'giz.png'
 };
 bookmark[2][5] = {
-	'title':'Lynda',
-	'url':'http://www.lynda.com/member.aspx',
-	'thumb':'lynda.png'
+	'title':'Wordpress',
+	'url':'http://www.wordpress.com',
+	'thumb':'wordpress.png'
 };
 bookmark[2][6] = {
 	'title':'engadged',
@@ -186,9 +186,9 @@ bookmark[2][8] = {
 	'thumb':'dropbox.png'
 };
 bookmark[2][9] = {
-	'title':'National Geographic',
-	'url':'http://www.nationalgeographic.com/',
-	'thumb':'natgeo.png'
+	'title':'Code School',
+	'url':'http://www.codeschool.com',
+	'thumb':'codeschool.png'
 };
 bookmark[2][10] = {
 	'title':'Techcrunch',
