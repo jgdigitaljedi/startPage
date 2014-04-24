@@ -38,7 +38,7 @@ bookmark[0][3] = {
 };
 bookmark[0][4] = {
 	'title':'SilentGround',
-	'url':'http://www.silentground.org/forums/',
+	'url':'http://www.silentground.org/forum.php/',
 	'thumb':'silentground.png'
 };
 bookmark[0][5] = {
